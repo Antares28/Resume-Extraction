@@ -1,0 +1,3 @@
+# 简历文本信息自动获取的设计与实现
+
+由于BERT预训练的中文模型和最终得到的BERT-BiLSTM-CRF模型文件体积较大，未上传至该GitHub仓库。BERT预训练的中文模型可以从huggingface网站得到，BERT-BiLSTM-CRF模型可以通过执行BERT-BiLSTM-CRF文件夹下的main.py代码得到。
